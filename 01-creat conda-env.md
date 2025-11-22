@@ -5,9 +5,10 @@ subsystem Linux (WSL)
 ## Code in WSL terminal
 -Start the WSL Windows
 -Type the following to creat a conda environment for R4.5 names as R4.5WS
-'''{cmd}
+```{cmd}
 Condea creat --name R4.5WS
-'''
+```
 -Activate the R4. 5WS Conda environmentas follows
-'''{CMD}
+```{CMD}
 conda activate R4.5WS
+```
