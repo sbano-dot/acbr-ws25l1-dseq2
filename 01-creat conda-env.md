@@ -11,4 +11,7 @@ Condea creat --name R4.5WS
 -Activate the R4. 5WS Conda environmentas follows
 ```{CMD}
 conda activate R4.5WS
+```{CMD}
+conda install conda-forge::r-base
 ```
+'conda-forge' is the channel from anaconda.org.[conda-forge for rbaser4.5] {https://anaconda.org/conda-forge/r-base}
