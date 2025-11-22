@@ -10,5 +10,5 @@ install.packages("BiocManager")
 ```
 Install 'Biostrings' Bioconductor package 'BiocManager(),function
 ```{R}
-BiocManager::install("Biostring")
+BiocManager::install("Biostrings")
 ```
